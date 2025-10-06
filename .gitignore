@@ -1,0 +1,12 @@
+# Arquivo de configuração com senhas
+config.py
+
+
+# Arquivos de ambiente virtual do Python
+venv/
+__pycache__/
+*.pyc
+
+#Outros arquivos 
+trabalho fiap 2 .docx
+projeto 1 fiap.pptx
